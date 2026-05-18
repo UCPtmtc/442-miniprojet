@@ -16,7 +16,7 @@ La solution que je n'ai pas réussi à mettre en place est de réussir à faire 
 
 ---------------------------
 
-Pour le support d'image j'ai utilisé un extrait de clip musical en dessin animé dont un internaute dévoué à éxtrait chaque frame et mis à disposition sur Github <https://github.com/bleov/bad-apple-frames>.\
+Pour le support d'image j'ai utilisé un extrait de clip musical en dessin animé dont un internaute dévoué à éxtrait chaque frame et mis à disposition sur Github <https://github.com/bleov/bad-apple-frames>.
 
 J'ai pu alors diminuer et convertir les images `.jpg` de la source dans le format leger `BMP RGB 565` via les commandes suivantes dans le shell linux :
 
